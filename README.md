@@ -32,4 +32,4 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance and functionality:
 
-Passowrd generators web app tool.()
+Passowrd generators web app tool.<img src="assets\images\03-javascript-homework-screendemo.png" alt="Password generator web app tool">
